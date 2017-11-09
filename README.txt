@@ -2,7 +2,7 @@
 Contributors: boogah
 Tags: amp, mobile, google, mercury
 Requires at least: 3.7
-Tested up to: 4.7.1
+Tested up to: 4.9
 Stable tag: 1.0
 License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.txt

@@ -12,7 +12,7 @@
  * Domain Path:       /languages
  *
  * @link              https://jasoncosper.com/
- * @package           Minimal_AMP
+ * @package           WordPress
  * @author            Jason Cosper
  * @version           1.0.0
  */
@@ -29,6 +29,7 @@ function minimal_amp_include() {
 	if ( is_single() ) {
 		?>
 		<link rel="amphtml" href="https://mercury.postlight.com/amp?url=<?php echo rawurlencode( get_the_permalink() ); ?>">
-		<?php }
+		<?php
+	}
 }
 add_action( 'wp_head', 'minimal_amp_include' );
