@@ -3,7 +3,7 @@ Contributors: boogah
 Tags: amp, mobile, google, mercury
 Requires at least: 3.7
 Tested up to: 4.9
-Stable tag: 1.0
+Stable tag: 1.0.1
 License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.txt
 
@@ -28,5 +28,8 @@ Y'all need to ask some questions first...
 
 == Changelog ==
 
-= 1.0, January 16, 2017 =
+= 1.0.1, November 9, 2017 =
+* Minor code cleanup
+
+= 1.0.0, January 16, 2017 =
 * Initial release.

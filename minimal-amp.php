@@ -3,7 +3,7 @@
  * Plugin Name:       Minimal AMP
  * Plugin URI:        https://github.com/boogah/minimal-amp/
  * Description:       An incredibly minimal AMP implementation, courtesy of <a href="https://mercury.postlight.com/amp-converter/">Postlight Mercury</a>. Just enable and go!
- * Version:           1.0.0
+ * Version:           1.0.1
  * Author:            Jason Cosper
  * Author URI:        https://jasoncosper.com/
  * License:           GPL v3
@@ -14,7 +14,7 @@
  * @link              https://jasoncosper.com/
  * @package           WordPress
  * @author            Jason Cosper
- * @version           1.0.0
+ * @version           1.0.1
  */
 
 // If this file is called directly, abort.
